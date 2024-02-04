@@ -1,0 +1,54 @@
+10:18:01.180 [main] DEBUG com.citi.api.test.UserTests2 - debugging.....
+10:18:01.191 [main] INFO  com.citi.api.test.UserTests2 - ********** Creating user  ***************
+10:18:04.108 [main] INFO  com.citi.api.test.UserTests2 - **********User is creatged  ***************
+10:18:04.120 [main] INFO  com.citi.api.test.UserTests2 - ********** Reading User Info ***************
+10:18:05.470 [main] INFO  com.citi.api.test.UserTests2 - **********User info  is displayed ***************
+10:18:05.477 [main] INFO  com.citi.api.test.UserTests2 - ********** Updating User ***************
+10:18:06.697 [main] INFO  com.citi.api.test.UserTests2 - ********** User updated ***************
+10:18:08.001 [main] INFO  com.citi.api.test.UserTests2 - **********   Deleting User  ***************
+10:18:09.323 [main] INFO  com.citi.api.test.UserTests2 - ********** User deleted ***************
+10:19:39.726 [main] DEBUG com.citi.api.test.UserTests2 - debugging.....
+10:19:39.737 [main] INFO  com.citi.api.test.UserTests2 - ********** Creating user  ***************
+10:19:42.670 [main] INFO  com.citi.api.test.UserTests2 - **********User is creatged  ***************
+10:19:42.689 [main] INFO  com.citi.api.test.UserTests2 - ********** Reading User Info ***************
+10:19:44.142 [main] INFO  com.citi.api.test.UserTests2 - **********User info  is displayed ***************
+10:19:44.151 [main] INFO  com.citi.api.test.UserTests2 - ********** Updating User ***************
+10:19:45.393 [main] INFO  com.citi.api.test.UserTests2 - ********** User updated ***************
+10:19:46.628 [main] INFO  com.citi.api.test.UserTests2 - **********   Deleting User  ***************
+10:19:47.832 [main] INFO  com.citi.api.test.UserTests2 - ********** User deleted ***************
+10:21:22.097 [main] DEBUG com.citi.api.test.UserTests - debugging.....
+10:21:22.108 [main] INFO  com.citi.api.test.UserTests - ********** Creating user  ***************
+10:21:24.927 [main] INFO  com.citi.api.test.UserTests - **********User is creatged  ***************
+10:21:24.950 [main] INFO  com.citi.api.test.UserTests - ********** Reading User Info ***************
+10:21:26.247 [main] INFO  com.citi.api.test.UserTests - **********User info  is displayed ***************
+10:21:26.253 [main] INFO  com.citi.api.test.UserTests - ********** Updating User ***************
+10:21:27.396 [main] INFO  com.citi.api.test.UserTests - ********** User updated ***************
+10:21:28.628 [main] INFO  com.citi.api.test.UserTests - **********   Deleting User  ***************
+10:21:29.922 [main] INFO  com.citi.api.test.UserTests - ********** User deleted ***************
+10:23:42.723 [main] DEBUG com.citi.api.test.UserTests - debugging.....
+10:23:42.734 [main] INFO  com.citi.api.test.UserTests - ********** Creating user  ***************
+10:23:45.884 [main] INFO  com.citi.api.test.UserTests - **********User is creatged  ***************
+10:23:45.898 [main] INFO  com.citi.api.test.UserTests - ********** Reading User Info ***************
+10:23:47.529 [main] INFO  com.citi.api.test.UserTests - **********User info  is displayed ***************
+10:23:47.534 [main] INFO  com.citi.api.test.UserTests - ********** Updating User ***************
+10:23:48.781 [main] INFO  com.citi.api.test.UserTests - ********** User updated ***************
+10:23:49.932 [main] INFO  com.citi.api.test.UserTests - **********   Deleting User  ***************
+10:23:51.211 [main] INFO  com.citi.api.test.UserTests - ********** User deleted ***************
+10:43:18.283 [main] DEBUG com.citi.api.test.UserTests - debugging.....
+10:43:18.296 [main] INFO  com.citi.api.test.UserTests - ********** Creating user  ***************
+10:43:21.140 [main] INFO  com.citi.api.test.UserTests - **********User is creatged  ***************
+10:43:21.152 [main] INFO  com.citi.api.test.UserTests - ********** Reading User Info ***************
+10:43:22.431 [main] INFO  com.citi.api.test.UserTests - **********User info  is displayed ***************
+10:43:22.435 [main] INFO  com.citi.api.test.UserTests - ********** Updating User ***************
+10:43:23.569 [main] INFO  com.citi.api.test.UserTests - ********** User updated ***************
+10:43:24.859 [main] INFO  com.citi.api.test.UserTests - **********   Deleting User  ***************
+10:43:26.005 [main] INFO  com.citi.api.test.UserTests - ********** User deleted ***************
+11:09:08.935 [main] DEBUG com.citi.api.test.UserTests - debugging.....
+11:09:08.958 [main] INFO  com.citi.api.test.UserTests - ********** Creating user  ***************
+11:09:12.285 [main] INFO  com.citi.api.test.UserTests - **********User is creatged  ***************
+11:09:12.305 [main] INFO  com.citi.api.test.UserTests - ********** Reading User Info ***************
+11:09:13.610 [main] INFO  com.citi.api.test.UserTests - **********User info  is displayed ***************
+11:09:13.610 [main] INFO  com.citi.api.test.UserTests - ********** Updating User ***************
+11:09:14.945 [main] INFO  com.citi.api.test.UserTests - ********** User updated ***************
+11:09:16.245 [main] INFO  com.citi.api.test.UserTests - **********   Deleting User  ***************
+11:09:17.615 [main] INFO  com.citi.api.test.UserTests - ********** User deleted ***************

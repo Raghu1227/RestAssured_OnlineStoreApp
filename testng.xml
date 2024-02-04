@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="PetSuite">
+  
+  <listeners>
+  		<listener  class-name="com.citi.api.utilities.ExtentReportManager" />
+   </listeners>
+  
+  <test thread-count="5" name="PetTests">
+    <classes>
+       <class name="com.citi.api.test.UserTests"/>
+      <!-- <class name="com.citi.api.test.UserTests2"/> -->
+     <!-- <class name="com.citi.api.test.DDTests"/>  -->
+    </classes>
+  </test> <!-- PetTests -->
+</suite> <!-- PetSuite -->
